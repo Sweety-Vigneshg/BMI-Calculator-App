@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI-Calculator</string>
+    <string name="main_url">"file:///android_asset/index.html"</string>
+    <string name="admob_app_id">ca-app-pub-4677097648913981~6661712276</string>
+    <string name="admob_banner_id">ca-app-pub-4677097648913981/1336361265</string>
+    <string name="todo">TODO</string>
+</resources>

@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "751751875819",
+    "firebase_url": "https://basic-android-apps-default-rtdb.firebaseio.com",
+    "project_id": "basic-android-apps",
+    "storage_bucket": "basic-android-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751751875819:android:65efbf2192bc63a329c2ae",
+        "android_client_info": {
+          "package_name": "org.igreatapps.bmicalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751751875819-utdvmnk9prjiq1m8cr0fn6d9pieu0nm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbnQZyX5-B4su7HdAFHkMtaddcpLuEAq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751751875819-utdvmnk9prjiq1m8cr0fn6d9pieu0nm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751751875819:android:29ddbe42429b035829c2ae",
+        "android_client_info": {
+          "package_name": "org.igreatapps.insta.downloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751751875819-utdvmnk9prjiq1m8cr0fn6d9pieu0nm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbnQZyX5-B4su7HdAFHkMtaddcpLuEAq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751751875819-utdvmnk9prjiq1m8cr0fn6d9pieu0nm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751751875819:android:db0f910b60184f1129c2ae",
+        "android_client_info": {
+          "package_name": "org.igreatapps.tictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751751875819-utdvmnk9prjiq1m8cr0fn6d9pieu0nm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbnQZyX5-B4su7HdAFHkMtaddcpLuEAq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751751875819-utdvmnk9prjiq1m8cr0fn6d9pieu0nm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
